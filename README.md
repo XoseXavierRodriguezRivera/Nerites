@@ -1,8 +1,8 @@
 
 
-# Project Title
+# Nerites
 
-Nerites. Building AI course project
+Nerites is my Building AI course project
 
 ## Summary
 
